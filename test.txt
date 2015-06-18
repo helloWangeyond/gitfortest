@@ -1,4 +1,0 @@
-hello world!
-hello wangbeyond!
-hello nihao
-add license file
